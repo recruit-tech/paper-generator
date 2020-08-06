@@ -1,6 +1,7 @@
 # Paper generator
 Utilities for ATL paper ocr prj
-
+* More details will be posted on the ATL blog.
+  https://atl.recruit-tech.co.jp/blog/
 
 ## **adjust_rotation**
 ### USAGE
